@@ -12,9 +12,6 @@ It is a beginner-level project used to understand:
 
 ##  Hardware Required
 - ESP32
-- LED
-- Resistor (220Ω – 330Ω, if external LED)
-- Jumper wires
 - USB cable
 
 ---
