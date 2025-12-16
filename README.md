@@ -1,6 +1,6 @@
 **LED Blink With Serial Monitor**
 
-**Project Description**
+**Project Description** :
 This project demonstrates basic ESP32 GPIO control by blinking an LED ON and OFF every 1 second and displaying the LED status on the Serial Monitor.
 
 It is a beginner-level project used to understand:
