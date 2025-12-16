@@ -28,11 +28,12 @@ It is a beginner-level project used to understand:
 ---
 
 ##  How to Run
-1. Open Arduino IDE  
-2. Select the correct **Board** and **COM Port**  
-3. Upload the code  
-4. Open **Serial Monitor**
-5. Set baud rate to **115200**
+1. Open VS Code
+2. Open extension platformio
+3. Select the correct **framework** and **board**  
+4. Upload the code  
+5. Open **Serial Monitor**
+6. Set baud rate to **115200**
 
 ---
 
